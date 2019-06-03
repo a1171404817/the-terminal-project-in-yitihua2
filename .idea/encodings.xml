@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/servlet/mainYunSuanServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/servlet/readyresultServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sizeyunsuan/caculate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sizeyunsuan/init.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sizeyunsuan/kuohao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sizeyunsuan/zhenfenshu.java" charset="GBK" />
+  </component>
+</project>
